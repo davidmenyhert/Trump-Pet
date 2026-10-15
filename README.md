@@ -1,4 +1,4 @@
-# Trump-Pet — GitHub Pages privacy site
+# TrumPet — GitHub Pages privacy site
 
 Upload `index.html` to a public `Trump-Pet` repository. Enable GitHub Pages: Settings → Pages → Deploy from a branch → `main` / `(root)`.
 
